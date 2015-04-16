@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unofficial Hubway</string>
+    <string name="title_activity_hubway">Unofficial Hubway</string>
+
+    <array name="loading_colors">
+        <item>@color/app_primary</item>
+        <item>@color/app_primary_light</item>
+    </array>
+</resources>
