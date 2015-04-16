@@ -24,7 +24,7 @@ public class StationModel {
     boolean installed;
     @Element
     boolean locked;
-    @Element
+    @Element(name="installDate", required=false)
     long installDate;
     @Element(name="removalDate", required=false)
     long removalDate;
