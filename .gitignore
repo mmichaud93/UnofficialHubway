@@ -1,0 +1,18 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+*.psd
+hires.png
+icon.png
+screenshot1.png
+screenshot2.png
+screenshot3.png
+ripple.png
+ripple_enabled.png
+card_background.png
+feature graphic.png
+*.jks
+*.ai

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionBarHeight">56dp</dimen>
+
+    <dimen name="fab_size">48dp</dimen>
+    <dimen name="fab_padding">16dp</dimen>
+    <dimen name="fab_margin">8dp</dimen>
+    <dimen name="button_elevation">2dp</dimen>
+    <dimen name="button_press_elevation">4dp</dimen>
+</resources>
